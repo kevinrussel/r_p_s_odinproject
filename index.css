@@ -1,0 +1,12 @@
+div {
+text-align: center;
+padding: 30px; 
+margin-bottom: 20px;
+}
+ .playable{
+    background-color: bisque;
+ }
+ .computer{
+    background-color: lightblue;
+ }
+ .human{background-color: azure;}
